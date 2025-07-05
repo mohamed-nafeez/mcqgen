@@ -1,8 +1,8 @@
 requests
 langchain
+langchain-google-genai
 streamlit
 python-dotenv
 PyPDF2
-langchain-community
 
 -e .
